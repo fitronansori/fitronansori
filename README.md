@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fitronansori&label=Profile%20views&color=0e75b6&style=flat" alt="fitronansori" /> </p>
 
-- 🌱 I’m currently learning **React**
-
-- 👨‍💻 All of my projects are available at [https://github.com/fitronansori?tab=repositories](https://github.com/fitronansori?tab=repositories)
-
 - 📫 How to reach me **fitronansori7@gmail.com**
 
 - ⚡ Fun fact **introvert who wants to be a useful person for the family**

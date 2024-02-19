@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fitron Ansori</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fitronansori&label=Profile%20views&color=0e75b6&style=flat" alt="fitronansori" /> </p>
-
 - 📫 How to reach me **fitronansori7@gmail.com**
 
 - ⚡ Fun fact **introvert who wants to be a useful person for the family**
